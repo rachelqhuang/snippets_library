@@ -1,0 +1,15 @@
+git command lines
+
+1. pwd  - find current directory
+2. cd /c/somefolder/
+
+3. create a new folder under current directory
+   1) mkdir "NEW FOLDER NAME"
+   2) mkdir NEWFOLDERNAME ( no space between words)
+
+4. create a new file in the currect directory
+   touch newFile.txt
+5. create a new file in the specific directory
+   touch /c/Users/rachel/Documents/git_home/snippets_git_command.txt
+6 undo git init
+  rm -rf .git
