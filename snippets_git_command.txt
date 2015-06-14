@@ -1,7 +1,7 @@
-git command lines
+I.git command lines
 
 1. pwd  - find current directory
-2. cd /c/somefolder/
+2. cd "/c/somefolder"
 
 3. create a new folder under current directory
    1) mkdir "NEW FOLDER NAME"
@@ -11,5 +11,24 @@ git command lines
    touch newFile.txt
 5. create a new file in the specific directory
    touch /c/Users/rachel/Documents/git_home/snippets_git_command.txt
+
+
 6 undo git init
   rm -rf .git
+
+7. add context to the file via command line
+TBC
+
+8. git init   (initiate current directory)
+
+
+II. link git folder to github
+git hub
+
+1. go to github and follow instructions
+2. git remote add https://github.com/rachelqhuang/snippets_library.git
+  1). git rm remote origin  (how to undo previous step)
+
+3. git push
+
+
